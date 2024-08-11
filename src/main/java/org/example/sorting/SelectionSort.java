@@ -1,2 +1,4 @@
-package org.example.sorting;public class SelectionSort {
+package org.example.sorting;
+
+public class SelectionSort {
 }
